@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/aballajessica/static/css/main.f226e7be.css",
+    "main.js": "/aballajessica/static/js/main.f26ffacb.js",
+    "static/js/787.ef8e2b70.chunk.js": "/aballajessica/static/js/787.ef8e2b70.chunk.js",
+    "static/media/aballa.gif": "/aballajessica/static/media/aballa.5d9925255e0fb27341f9.gif",
+    "index.html": "/aballajessica/index.html",
+    "main.f226e7be.css.map": "/aballajessica/static/css/main.f226e7be.css.map",
+    "main.f26ffacb.js.map": "/aballajessica/static/js/main.f26ffacb.js.map",
+    "787.ef8e2b70.chunk.js.map": "/aballajessica/static/js/787.ef8e2b70.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f226e7be.css",
+    "static/js/main.f26ffacb.js"
+  ]
+}
